@@ -39,7 +39,7 @@ O intuito desse projeto foi desenvolver uma página com o uso do **Display grid*
 
 
 <p align="center">
-  <img alt="projeto Flower garden" src=".github/preview.PNG" width="70%">
+  <img alt="projeto Flower garden" src=".github/preview.png" width="70%">
 </p>
 
 <br>
