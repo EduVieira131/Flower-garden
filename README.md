@@ -47,9 +47,8 @@ O intuito desse projeto foi desenvolver uma página com o uso do **Display grid*
 ## Acesse o projeto!
 
 
-[FlowerGarden.com] (https://eduvieira131.github.io/Flower-garden/)
+>[FlowerGarden.com](https://eduvieira131.github.io/Flower-garden/)
 
----
 <br>
 
 ## :memo: Licença
