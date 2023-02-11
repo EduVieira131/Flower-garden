@@ -268,7 +268,7 @@ footer button:hover {
     display: grid;
     margin-inline: auto;
     grid-template-columns: 24rem 24rem 23rem;
-    grid-template-rows: 16rem 19rem;
+    grid-template-rows: 16rem 15rem;
     grid-template-areas:
       'A B C'
       'A B D';
