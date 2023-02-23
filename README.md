@@ -32,7 +32,7 @@ O intuito desse projeto foi desenvolver uma página com o uso do **Display grid*
 ## Confira o projeto:
 
 <p>
-  Uma pequena amosta sobre o que esperar do projeto!
+  Uma pequena amostra sobre o que esperar do projeto!
 </p>
 
 <br>
